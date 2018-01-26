@@ -1,2 +1,2 @@
-# comparison sorting method library
+# comparison sorting methods
 # by Drew Scholz
