@@ -1,2 +1,2 @@
 # Python-Sorting-Methods
-Python library with different comparison sorting methods
+Comparison sorting methods in Python
